@@ -1,0 +1,54 @@
+{
+    "admin": {
+        "password": "123",
+        "friends": []
+    },
+    "alamer": {
+        "password": "12345",
+        "friends": []
+    },
+    "fatima": {
+        "password": "12345",
+        "friends": [
+            "eda",
+            "ali",
+            "selin",
+            "fatimaa",
+            "alamer"
+        ]
+    },
+    "eda": {
+        "password": "123",
+        "friends": [
+            "fatima",
+            "selin"
+        ]
+    },
+    "fatimaa": {
+        "password": "1234567",
+        "friends": [
+            "eda"
+        ]
+    },
+    "ali": {
+        "password": "1234567",
+        "friends": [
+            "fatima",
+            "eda"
+        ]
+    },
+    "selin": {
+        "password": "2005",
+        "friends": []
+    },
+    "ada": {
+        "password": "123456",
+        "friends": [
+            "eda"
+        ]
+    },
+    "ayse": {
+        "password": "1234567",
+        "friends": []
+    }
+}
